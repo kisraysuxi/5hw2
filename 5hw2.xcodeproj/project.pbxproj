@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		B19BCFAD29A8B27C00AB25E2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19BCFAC29A8B27C00AB25E2 /* main.swift */; };
+		B19BCFB429A8B43900AB25E2 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19BCFB329A8B43900AB25E2 /* User.swift */; };
+		B19BCFB629A8B45600AB25E2 /* Phone.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19BCFB529A8B45600AB25E2 /* Phone.swift */; };
+		B19BCFB829A8B4C700AB25E2 /* DataBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19BCFB729A8B4C700AB25E2 /* DataBase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		B19BCFA929A8B27C00AB25E2 /* 5hw2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 5hw2; sourceTree = BUILT_PRODUCTS_DIR; };
 		B19BCFAC29A8B27C00AB25E2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B19BCFB329A8B43900AB25E2 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		B19BCFB529A8B45600AB25E2 /* Phone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Phone.swift; sourceTree = "<group>"; };
+		B19BCFB729A8B4C700AB25E2 /* DataBase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataBase.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				B19BCFAC29A8B27C00AB25E2 /* main.swift */,
+				B19BCFB329A8B43900AB25E2 /* User.swift */,
+				B19BCFB529A8B45600AB25E2 /* Phone.swift */,
+				B19BCFB729A8B4C700AB25E2 /* DataBase.swift */,
 			);
 			path = 5hw2;
 			sourceTree = "<group>";
@@ -120,6 +129,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B19BCFB429A8B43900AB25E2 /* User.swift in Sources */,
+				B19BCFB629A8B45600AB25E2 /* Phone.swift in Sources */,
+				B19BCFB829A8B4C700AB25E2 /* DataBase.swift in Sources */,
 				B19BCFAD29A8B27C00AB25E2 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
